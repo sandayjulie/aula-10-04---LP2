@@ -1,8 +1,5 @@
 
-# Título
-Repositório Julie - 2EMIA.
-
-# Descrição
+# Título - Repositório Julie - 2EMIA.
 Repositório Site da Nike - Aulas Professor José de Assis
 
 # Autor
